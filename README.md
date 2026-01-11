@@ -1,98 +1,101 @@
-<div align="center">
-  <h1>👋 Hello there, I'm Dhruv Desai!</h1>
-  <p>🚀 An 18-year-old Fresh Graduate, Aspiring Full-Stack Developer & Tech Enthusiast</p>
-</div>
-
 ---
-
-### ✨ About Me: Navigating the Codeverse, One Byte at a Time
-
-As an **18-year-old fresh graduate** 🎓, my passion for software development runs deep. I'm currently on an exciting journey to solidify my **full-stack capabilities**, blending my foundational frontend skills (HTML, CSS, JavaScript, ReactJS) with a growing expertise in **backend development (Node.js)**. I thrive on solving complex problems and crafting clean, efficient, and well-structured code.
-
-Beyond the web, my curiosity leads me into fascinating realms! I'm actively exploring **backend projects** and diving into **C++**, fascinated by the intricacies of **8-bit systems**. The future holds promises of **Web3** and the mind-bending world of **AI/ML** for sure. I'm always open to new ideas, **collaborations**, and valuable **advice** – let's build something awesome together! 🤝
-
----
-
-### 💡 What I'm Currently Hacking On: My Learning Lab
-
-* **Backend Mastery (Node.js):** Deep-diving into **Node.js (Express)**, designing robust RESTful APIs, and implementing secure authentication systems. I'm particularly focused on understanding backend architecture inside out.
-* **Current Project:** Actively developing a **[BRIEF, EXCITING DESCRIPTION OF A CURRENT NODE.JS BACKEND PROJECT, e.g., "a real-time collaborative document editor backend using WebSockets" or "a secure user authentication microservice with Node.js"]** to push my limits and apply new concepts. This is where the real learning (and glorious bugs! 🐞) happens.
-
----
-
-### ⚙️ My Ever-Evolving Toolkit & Digital Playground
 
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend & Core Web Tech Stack" />
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,mysql" alt="Backend & Languages Tech Stack" />
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=numpy,tailwind,firebase,vite" alt="Libraries & Frameworks Tech Stack" />
-  </a>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" alt="Dev Tools & Other Tech Stack" />
-  </a>
+  <img src="https://camo.githubusercontent.com/01292b743fa09a3d215a4f3fb0c5728e6e5edfc235b174385a8d6be578517a52/68747470733a2f2f706e672e706e67747265652e636f6d2f7468756d625f6261636b2f66773830302f6261636b67726f756e642f32303235313230342f706e67747265652d616e696d652d74656d706c652d696e746572696f722d776974682d6461726b2d666972652d636f6c6f72732d696d6167655f32303731343732302e77656270" width="100%" />
+</p>
+
+<br/>
+
+<h1 align="center">Dhruv Desai</h1>
+
+<p align="center">
+  <sub style="color:#9a9a9a">
+    Backend-Focused Developer · Systems · APIs · Architecture
+  </sub>
+</p>
+
+<p align="center">
+  <sub style="color:#8f3a1f">
+    静かに燃える
+  </sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1400&color=8F3A1F&center=true&vCenter=true&width=460&lines=Node.js+%7C+Express+%7C+REST+APIs;Clean+Architecture+%7C+System+Design;Quiet+Code.+Strong+Systems." />
 </p>
 
 ---
 
-### 📊 My GitHub Pulse: Contributions & Code Adventures
+## <span style="color:#8f3a1f">Profile</span>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdesai793&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="Dhruv's GitHub Stats"/>
+Backend-focused **Full-Stack Developer** with a primary interest in
+**backend systems**, **APIs**, and **architectural fundamentals**.
+
+I focus on:
+
+* Designing <span style="color:#8f3a1f">predictable</span>, scalable systems
+* Writing backend code that remains <span style="color:#8f3a1f">readable</span> over time
+* Understanding how systems behave under <span style="color:#8f3a1f">load</span> and <span style="color:#8f3a1f">failure</span>
+
+Currently working with **Node.js & Express**,
+while studying **C++** to strengthen <span style="color:#8f3a1f">low-level system</span> understanding.
+
+---
+
+## <span style="color:#8f3a1f">Stack</span>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,cpp,python,mysql,react,nextjs,git,github,bash,vscode" />
+</p>
+
+---
+
+## <span style="color:#8f3a1f">Current Focus</span>
+
+* Backend <span style="color:#8f3a1f">architecture</span> and API design
+* RESTful services and <span style="color:#8f3a1f">authentication</span> flows
+* Middleware, <span style="color:#8f3a1f">edge cases</span>, failure handling
+* Building <span style="color:#8f3a1f">long-lived systems</span>
+
+---
+
+<hr style="border:1px solid #1a0f0a"/>
+
+## <span style="color:#8f3a1f">Metrics</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvdesai793&show_icons=true&theme=transparent&title_color=8f3a1f&text_color=cfcfcf&icon_color=8f3a1f&hide_border=true" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dhruvdesai793&theme=catppuccin_mocha&hide_border=false" alt="Dhruv's GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvdesai793&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Dhruv's Top Languages"/>
-</div>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dhruvdesai793&theme=transparent&ring=8f3a1f&fire=8f3a1f&currStreakLabel=8f3a1f&hide_border=true" />
+</p>
 
 ---
 
-### 🏆 My GitHub Trophies & Milestones
-![](https://github-profile-trophy.vercel.app/?username=Dhruvdesai793&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
+## <span style="color:#8f3a1f">Contributions</span>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
 ---
 
-### ✍️ Random Dev Wisdom
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## <span style="color:#8f3a1f">Connect</span>
 
----
-
-### 🔝 Top Contributed Repo: My Current Obsession
-![](https://github-contributor-stats.vercel.app/api?username=Dhruvdesai793&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
----
-
-### 📚 Latest Musings & Insights (Check out my Medium!)
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@blixture793/2" alt="Recent Article 2">
-
----
-
-### 🤝 Let's Connect & Build Together!
-
-I'm always excited to discuss new tech, brainstorm innovative projects, or just share insights. Don't hesitate to reach out – my DMs are always open for fellow explorers!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dhruv-desai-b0779b370/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>  
-  <a href="https://x.com/blixture793" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
-  </a>  
-  <a href="https://medium.com/@blixture793" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>  
-  <a href="mailto:dhruvdesai793@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruv-desai-b0779b370/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=8f3a1f" />
   </a>
-</div>
+  <a href="https://x.com/Noctravellian">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=8f3a1f" />
+  </a>
+  <a href="https://medium.com/@blixture793">
+    <img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=8f3a1f" />
+  </a>
+  <a href="mailto:dhruvdesai793@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=8f3a1f" />
+  </a>
+</p>
 
 ---
-
-*P.S. Curious what I'm listening to while coding? Or maybe you want to trade debugging horror stories? Feel free to explore my repositories and contributions – always building, always learning!*
